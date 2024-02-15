@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
- <a href="https://higordiego.com.br" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" taget="_blank" alt="Higor Diego" />
+ <a href="https://higordiego.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Higor Diego" />
  </a>
  <a href="https://linkedin.com/in/higordiego" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Higor Diego"/>
