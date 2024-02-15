@@ -52,12 +52,3 @@
  💬 &emsp; Ask me about anything [here](https://github.com/higordiego/higordiego/issues)
 
 </p>
-
-<br/>
-<hr>
-
-![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
-
-<div align="center">
-    Made with ❤️ by <a href="https://higordiego.com.br" target="_blank">Higor Diego</a>
-</div>
